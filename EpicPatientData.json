@@ -1,0 +1,319 @@
+{
+    "Demography": {
+        "id": "T81lum-5p6QvDR7l6hv7lfE52bAbA2ylWBnv9CZEzNb0B",
+        "name": "Mr. Theodore Mychart",
+        "dateOfBirth": "1948-07-07",
+        "age": 72,
+        "gender": "male",
+        "race": "White"
+    },
+    "Lab Events": [
+        {
+            "id": "TLAsiQXC3WlPGLEoSKMe.FvJWdE9yU9rpRK9VQ4Zste0B",
+            "name": "POC PLATELET COUNT",
+            "status": "final",
+            "value": 210,
+            "code": "",
+            "effectiveDateTime": "2012-10-27T18:45:00Z"
+        },
+        {
+            "id": "TYcTop.0vJsGrmR-BIgypXCcYN1Qpj2h5rH00.Fo-y1QB",
+            "name": "HEMOGLOBIN A1C/HEMOGLOBIN TOTAL IN BLOOD",
+            "status": "final",
+            "value": 7.1,
+            "code": "4548-4",
+            "effectiveDateTime": "2006-07-07T14:50:00Z"
+        },
+        {
+            "id": "TyTACVT8EN3y297LJpmHOTRzwSjv9b2P1BFGIE-mjMUIB",
+            "name": "HEMOGLOBIN BLOOD GAS",
+            "status": "final",
+            "value": 15,
+            "code": "",
+            "effectiveDateTime": "2010-02-20T17:34:00Z"
+        },
+        {
+            "id": "TSTSVo6iPXJ550gR.dzbEwPwQ.OgtmL46.qNOys3T3PEB",
+            "name": "HEMOGLOBIN BLOOD GAS",
+            "status": "final",
+            "value": 13.9,
+            "code": "",
+            "effectiveDateTime": "2009-03-18T15:49:00Z"
+        },
+        {
+            "id": "TYCUjrj3QX46ruuAzS4KssuUDL-z1qDLMd10e2t5uW0YB",
+            "name": "HEMOGLOBIN BLOOD GAS",
+            "status": "final",
+            "value": 14.4,
+            "code": "",
+            "effectiveDateTime": "2007-07-25T15:49:00Z"
+        },
+        {
+            "id": "TmkRWk0ZaNDkgPXzKZxGkwdslHYFIXs3jc9qqCzVJrWsB",
+            "name": "HEMOGLOBIN BLOOD GAS",
+            "status": "final",
+            "value": 14.1,
+            "code": "",
+            "effectiveDateTime": "2006-07-07T14:43:00Z"
+        },
+        {
+            "id": "TilEpnEc2JSAPBX9OZuAvb8lJpBBns1vqmnK8DZKy4AIB",
+            "name": "HEMOGLOBIN (G/DL) IN BLOOD",
+            "status": "final",
+            "value": 15,
+            "code": "718-7",
+            "effectiveDateTime": "2012-10-19T21:26:00Z"
+        },
+        {
+            "id": "TDJDQ1SGKpTxooOqzhg-DwF2gYqmwRfJDubWl5ayepbUB",
+            "name": "HEMOGLOBIN (G/DL) IN BLOOD",
+            "status": "final",
+            "value": 15,
+            "code": "718-7",
+            "effectiveDateTime": "2009-03-12T12:45:00Z"
+        },
+        {
+            "id": "TilEpnEc2JSAPBX9OZuAvbzu8L93AEHFOzfle-ffyNmQB",
+            "name": "HEMATOCRIT (%) IN BLOOD BY AUTOMATED COUNT",
+            "status": "final",
+            "value": 45,
+            "code": "4544-3",
+            "effectiveDateTime": "2012-10-19T21:26:00Z"
+        },
+        {
+            "id": "TyTACVT8EN3y297LJpmHOTVaNYMKb9mQfHPVHi652DWwB",
+            "name": "HEMATOCRIT (%) IN BLOOD BY AUTOMATED COUNT",
+            "status": "final",
+            "value": 44.4,
+            "code": "4544-3",
+            "effectiveDateTime": "2010-02-20T17:34:00Z"
+        },
+        {
+            "id": "TSTSVo6iPXJ550gR.dzbEwE50pI28LqjQdfsPRcMqCdQB",
+            "name": "HEMATOCRIT (%) IN BLOOD BY AUTOMATED COUNT",
+            "status": "final",
+            "value": 40.9,
+            "code": "4544-3",
+            "effectiveDateTime": "2009-03-18T15:49:00Z"
+        },
+        {
+            "id": "TDJDQ1SGKpTxooOqzhg-DwHj5SJJZCcSCVCrNfOPjo7AB",
+            "name": "HEMATOCRIT (%) IN BLOOD BY AUTOMATED COUNT",
+            "status": "final",
+            "value": 42.9,
+            "code": "4544-3",
+            "effectiveDateTime": "2009-03-12T12:45:00Z"
+        },
+        {
+            "id": "TYCUjrj3QX46ruuAzS4Kssjs193EfIr1dXBBdfJlywtgB",
+            "name": "HEMATOCRIT (%) IN BLOOD BY AUTOMATED COUNT",
+            "status": "final",
+            "value": 42.9,
+            "code": "4544-3",
+            "effectiveDateTime": "2007-07-25T15:49:00Z"
+        },
+        {
+            "id": "TmkRWk0ZaNDkgPXzKZxGkwYPTLPdLN72t1hhYSBxSzc8B",
+            "name": "HEMATOCRIT (%) IN BLOOD BY AUTOMATED COUNT",
+            "status": "final",
+            "value": 42.9,
+            "code": "4544-3",
+            "effectiveDateTime": "2006-07-07T14:43:00Z"
+        },
+        {
+            "id": "TEzxPJXsIbaHK3dj7NdK6zQK.bq6VxIEfCrGnPtM1rmkB",
+            "name": "GLUCOSE (MG/DL) IN URINE",
+            "status": "final",
+            "value": 110,
+            "code": "2349-9",
+            "effectiveDateTime": "2007-07-25T15:43:00Z"
+        },
+        {
+            "id": "TLAsiQXC3WlPGLEoSKMe.FmpgGK39YuFRJYF.veEkP-EB",
+            "name": "WBC, POC",
+            "status": "final",
+            "value": 5.6,
+            "code": "",
+            "effectiveDateTime": "2012-10-27T18:45:00Z"
+        },
+        {
+            "id": "TLAsiQXC3WlPGLEoSKMe.FkZS-bbs7Z2pl2hD627NknUB",
+            "name": "RBC, POC",
+            "status": "final",
+            "value": 5.2,
+            "code": "",
+            "effectiveDateTime": "2012-10-27T18:45:00Z"
+        },
+        {
+            "id": "TLAsiQXC3WlPGLEoSKMe.FmouAKO6.YzsjgqF5gSNI40B",
+            "name": "HGB, POC",
+            "status": "final",
+            "value": 15.25,
+            "code": "",
+            "effectiveDateTime": "2012-10-27T18:45:00Z"
+        },
+        {
+            "id": "TLAsiQXC3WlPGLEoSKMe.Ftdlk94KGtO1F8knAbZEeTEB",
+            "name": "HCT, POC",
+            "status": "final",
+            "value": 50,
+            "code": "",
+            "effectiveDateTime": "2012-10-27T18:45:00Z"
+        },
+        {
+            "id": "TLAsiQXC3WlPGLEoSKMe.FhfLLFUtJ0zqais4qbkSj1gB",
+            "name": "MCV, POC",
+            "status": "final",
+            "value": 80,
+            "code": "",
+            "effectiveDateTime": "2012-10-27T18:45:00Z"
+        },
+        {
+            "id": "TilEpnEc2JSAPBX9OZuAvb-Igg8XHAiM9xC8msmUBXBMB",
+            "name": "MCV, POC",
+            "status": "final",
+            "value": 80,
+            "code": "",
+            "effectiveDateTime": "2012-10-19T21:26:00Z"
+        },
+        {
+            "id": "TLAsiQXC3WlPGLEoSKMe.FiDFQz.FTVUJ8DcBa.WFUMAB",
+            "name": "MCH, POC",
+            "status": "final",
+            "value": 26,
+            "code": "",
+            "effectiveDateTime": "2012-10-27T18:45:00Z"
+        },
+        {
+            "id": "TilEpnEc2JSAPBX9OZuAvbyUONl3bGM6TEaiCKKk5c0YB",
+            "name": "MCH, POC",
+            "status": "final",
+            "value": 26,
+            "code": "",
+            "effectiveDateTime": "2012-10-19T21:26:00Z"
+        },
+        {
+            "id": "TLAsiQXC3WlPGLEoSKMe.Flhhc1IDO0FsRE51kQQrT0gB",
+            "name": "MCHC, POC",
+            "status": "final",
+            "value": 31,
+            "code": "",
+            "effectiveDateTime": "2012-10-27T18:45:00Z"
+        },
+        {
+            "id": "TilEpnEc2JSAPBX9OZuAvb-67scdWcsO4uWfLuQ3X7IIB",
+            "name": "MCHC, POC",
+            "status": "final",
+            "value": 31,
+            "code": "",
+            "effectiveDateTime": "2012-10-19T21:26:00Z"
+        },
+        {
+            "id": "TLAsiQXC3WlPGLEoSKMe.Fvl9SIWNQBrV4lSGl2pYhXkB",
+            "name": "RDW, POC",
+            "status": "final",
+            "value": 13.3,
+            "code": "",
+            "effectiveDateTime": "2012-10-27T18:45:00Z"
+        },
+        {
+            "id": "TilEpnEc2JSAPBX9OZuAvb-wTBSYN7V..Ku10.K3mJPsB",
+            "name": "RDW, POC",
+            "status": "final",
+            "value": 13.1,
+            "code": "",
+            "effectiveDateTime": "2012-10-19T21:26:00Z"
+        },
+        {
+            "id": "TLAsiQXC3WlPGLEoSKMe.FjGt2C.gYk9apLKb82cM8R0B",
+            "name": "MPV, POC",
+            "status": "final",
+            "value": 11.2,
+            "code": "",
+            "effectiveDateTime": "2012-10-27T18:45:00Z"
+        },
+        {
+            "id": "TilEpnEc2JSAPBX9OZuAvbzz8T.0Bc7SPygFqJmEzTYIB",
+            "name": "MPV, POC",
+            "status": "final",
+            "value": 11.1,
+            "code": "",
+            "effectiveDateTime": "2012-10-19T21:26:00Z"
+        },
+        {
+            "id": "TilEpnEc2JSAPBX9OZuAvby96WrDZggJZbqL2g6L4JVkB",
+            "name": "PLATELETS (10*3/UL) IN BLOOD AUTOMATED COUNT",
+            "status": "final",
+            "value": 200,
+            "code": "777-3",
+            "effectiveDateTime": "2012-10-19T21:26:00Z"
+        },
+        {
+            "id": "TilEpnEc2JSAPBX9OZuAvb1qwkS4juxorGSzoI52BWZwB",
+            "name": "ERYTHROCYTES (10*6/UL) IN BLOOD BY AUTOMATED COUNT",
+            "status": "final",
+            "value": 5.1,
+            "code": "789-8",
+            "effectiveDateTime": "2012-10-19T21:26:00Z"
+        },
+        {
+            "id": "TilEpnEc2JSAPBX9OZuAvbwviiGX2bFWkYPwwo3LdMSwB",
+            "name": "LEUKOCYTES(10*3/UL) IN BLOOD BY AUTOMATED COUNT",
+            "status": "final",
+            "value": 5.5,
+            "code": "6690-2",
+            "effectiveDateTime": "2012-10-19T21:26:00Z"
+        }
+    ],
+    "Smoking history": [
+        {
+            "id": "TU2MrLVv5bOph55z4.QyowzKS.QgCHNBChG-PhxJyKQwB",
+            "name": "Social History",
+            "issued": "2009-03-12T00:00:00Z",
+            "histCode": "72166-2",
+            "histText": "Tobacco smoking status NHIS",
+            "effectivePeriod": "2006-10-22T00:00:00Z",
+            "code": "8517006",
+            "text": "Former Smoker",
+            "status": "final"
+        }
+    ],
+    "Procedures": [
+        {
+            "id": "TrLD6WDsJj4Zeb-AqaA.cyJ2DV1mm3kmq5Za-hNNQFkIB",
+            "name": "SIMPLE FACE MASK OXYGEN",
+            "code": "38911",
+            "date": "2009-03-12T13:03:58Z",
+            "status": "completed",
+            "reason": "Pneumonia, Organism Unspecified",
+            "reasonCode": "486"
+        },
+        {
+            "id": "TCyq2jK3W9LOCch2eJffoEGZ.l8-p2KLoH0HKQlBYVK0B",
+            "name": "SIMPLE FACE MASK OXYGEN",
+            "code": "38911",
+            "date": "2009-03-12T13:03:58Z",
+            "status": "completed",
+            "reason": "Pneumonia, Organism Unspecified",
+            "reasonCode": "486"
+        },
+        {
+            "id": "TRARmmv8xdhYkXSoY14B.Zqj1q4Pq7-na5WdGqAJ0yxcB",
+            "name": "SIMPLE FACE MASK OXYGEN",
+            "code": "38911",
+            "date": "2009-03-12T13:03:58Z",
+            "status": "completed",
+            "reason": "Pneumonia, Organism Unspecified",
+            "reasonCode": "486"
+        },
+        {
+            "id": "TFXV-sgeaD2GLWSMx0nWS6H4E8AbtPvEKRINnbNlOyUwB",
+            "name": "SIMPLE FACE MASK OXYGEN",
+            "code": "38911",
+            "date": "2009-03-12T13:03:58Z",
+            "status": "completed",
+            "reason": "Pneumonia, Organism Unspecified",
+            "reasonCode": "486"
+        }
+    ]
+}
